@@ -1,5 +1,2 @@
 My first line in project
-<<<<<<< HEAD
 Paris is the capital of
-=======
->>>>>>> parent of 3238448... Capitals added
