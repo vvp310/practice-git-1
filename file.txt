@@ -1,4 +1,5 @@
 My first line in project
-London is the capital of GB
-Moscow is the capital of Russia
+<<<<<<< HEAD
 Paris is the capital of
+=======
+>>>>>>> parent of 3238448... Capitals added
